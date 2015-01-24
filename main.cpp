@@ -6,6 +6,7 @@
 int main()
 {
     //test boost example
+    //
     using namespace boost::lambda;
     typedef std::istream_iterator<int> in;
 
