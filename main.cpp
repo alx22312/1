@@ -6,8 +6,8 @@
 int main()
 {
     //test boost example
-    //
-    using namespace boost::lambda;
+    ///
+        using namespace boost::lambda;
     typedef std::istream_iterator<int> in;
 
     std::for_each(
